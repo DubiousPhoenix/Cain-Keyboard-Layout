@@ -21,4 +21,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define EE_HANDS
 
 // For some reason Vol Up & Vol Down don't work without this
-#define TAP_CODE_DELAY 10
+#define TAP_CODE_DELAY 20
